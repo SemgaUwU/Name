@@ -1,0 +1,1 @@
+let picture = document.querySelector('.pic')
